@@ -18,6 +18,8 @@ if(isset($_GET['correo'])){
 ?>
 
 
+<a href="http://192.168.0.170/smr2a-jhostin/catalogo.php">Listado compañeros</a>
+
 <html>
 <body>
 <h1>FORMULARIO</h1>
@@ -30,4 +32,7 @@ if(isset($_GET['correo'])){
 
 </html>
 
-<a href="http://192.168.0.173/smr2a-VCR/smr2a.php">Victor Cabo</a>
+<a href="http://192.168.0.91/smr2a-VCR/smr2a.php">Victor Cabo</a>
+
+
+
