@@ -18,7 +18,7 @@ if(isset($_GET['correo'])){
 ?>
 
 
-<a href="http://192.168.0.170/smr2a-jhostin/catalogo.php">Listado compañeros</a>
+<a href="http://192.168.0.130/smr2a-jhostin/catalogo.php">Listado compañeros</a>
 
 <html>
 <body>
