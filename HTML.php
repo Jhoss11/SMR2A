@@ -1,7 +1,9 @@
 <html>
 <head>
+
   <title>APLICACIONES WEB</title>
 </head>
+
 <body bgcolor="yellow">
 	<h1 align="center">Sistemas microinformáticos y redes</h1>
 		<center>
@@ -20,16 +22,30 @@ en una tabla </p>
 		
 		</tr>
 		<tr>
-			<td>Cántabria</td>
+			<td>Pais Vasco</td>
 		<tr>
 			<td>Asturias</td>
 		<tr>
-			<td></td>
-		<tr>
-			<td></td>			
+			<td>Galicia</td>			
 		</tr>	
 	</table>
+
+
+		<p><h5><font size="5">Dejarme vuestros comentarios</font></h5></p>  <input type="text" name="texto"><br>
+					<p><button type='submit'>Enviar</button></p>
+					
+
 </center>	
+
+</body>
+</html>
+
+
+
+
+
+
+
 		
 			
 	
